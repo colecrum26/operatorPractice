@@ -1,6 +1,6 @@
 let id = 0;
-let firstName = "Jonny";
-let lastName = "BeGood";
+let firstName = "Johnny B.";
+let lastName = "Goode";
 let firstName2 = "Bob";
 let lastName2 = "Saget";
 
